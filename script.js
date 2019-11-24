@@ -186,7 +186,7 @@ function diceRollP1(){
     count = 13;
   }
   else if(Number==14){
-    document.getElementById("winer1").innerHTML ='<h4>Reduct 7 Points</h4>';
+    document.getElementById("winer1").innerHTML ='<h4>Reduct 10 Points</h4>';
     document.getElementById("p1_block_1").src ='';
     document.getElementById("p1_block_2").src ='';
     document.getElementById("p1_block_3").src ='';
@@ -642,7 +642,7 @@ function diceRollP2(){
   }
   else if(Number==14){
 
-    document.getElementById("winer2").innerHTML ='<h4>Reduct 7 Points</h4>';
+    document.getElementById("winer2").innerHTML ='<h4>Reduct 10 Points</h4>';
     document.getElementById("p2_block_1").src ='';
     document.getElementById("p2_block_2").src ='';
     document.getElementById("p2_block_3").src ='';
